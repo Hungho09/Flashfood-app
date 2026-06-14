@@ -17,7 +17,11 @@
 </p>
 
 ---
+---
+### 📊 GitHub Analytics
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hungho09&show_icons=true&theme=radical)](https://github.com/Hungho09)
 
+---
 ## 📖 Tổng quan dự án
 
 **Flashfood (FastBite)** là một hệ thống đặt đồ ăn toàn diện (Full-Stack Food Delivery Application). Dự án kết hợp sức mạnh của **Flutter** (ở phía Client/Admin) giúp mang lại giao diện mượt mà, trực quan với **Node.js Express & PostgreSQL** ở phía Backend nhằm đảm bảo hiệu năng cao, bảo mật chặt chẽ và xử lý giao dịch đáng tin cậy. 
